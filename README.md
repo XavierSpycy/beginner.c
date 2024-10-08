@@ -1,7 +1,5 @@
 # beginner.c: Get Started with C Programming in One Week
-<img src="https://img.shields.io/badge/maintained-yes-green">
-<img src="https://img.shields.io/github/license/XavierSpycy/beginner.c">
-<img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
+<img src="https://img.shields.io/badge/maintained-yes-green"> <img src="https://img.shields.io/github/license/XavierSpycy/beginner.c"> <img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
 
 C is often considered one of the most challenging programming languages due to its intricate, low-level operations. Although mastering C programming swiftly is a formidable task, with focused effort, it is entirely feasible to become proficient in the basics within just one week.
 
